@@ -1,5 +1,0 @@
-streamlit
-keras==2.15.0
-numpy
-pandas
-h5py
